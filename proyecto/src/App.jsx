@@ -1,4 +1,5 @@
 import Foto1 from './components/Foto1';
+import Galeria from './components/Galeria';
 import Headers from './components/Headers';
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Headers />
       <main>
         <Foto1 />
+        <Galeria />
       </main>
     </>
   )

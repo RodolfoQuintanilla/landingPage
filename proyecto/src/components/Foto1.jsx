@@ -9,7 +9,7 @@ const Foto1 = () => {
 
 
          <section className="foto1__container">
-            <h1 className="foto1 __titulo">The leader in interactive VR</h1>
+            <h1 className="foto1__titulo">The leader in interactive VR</h1>
             <p className="foto1__parrafo">
                Founded in 2011, Loopstudios has been producing world-class virtual reality
                projects for some of the best companies around the globe. Our award-winning

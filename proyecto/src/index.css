@@ -81,3 +81,107 @@ body {
    margin-left: 20%;
    margin-top: 2%;
 }
+
+/* foto imagenes */
+
+.foto1 {
+   display: flex;
+   flex-wrap: wrap;
+   padding: 80px;
+   justify-content: start;
+}
+
+.foto1__section {
+   margin-left: 20%;
+
+}
+
+.foto1__container {
+   position: absolute;
+   right: 15%;
+   bottom: -12%;
+   width: 531px;
+   height: 250px;
+
+   padding: 3rem;
+   background-color: var(--White);
+
+
+}
+
+.galeria {
+   padding: 20px 10rem;
+
+}
+
+
+.galeria__titulo {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   padding: 20px;
+}
+
+.galeria__botones {
+   background-color: black;
+   color: var(--White);
+   border: 0px;
+   width: 80px;
+   height: 30;
+   padding: 10px;
+}
+
+.galeria__container,
+.galeria__container2 {
+   display: flex;
+   flex-wrap: wrap;
+
+}
+
+.galeria__tajeta {
+   height: 500px;
+   width: 350px;
+   color: var(--White);
+
+
+}
+
+.galeria__img1 {
+   background-image: url(./img/image-deep-earth.jpg);
+
+}
+
+.galeria__img2 {
+   background-image: url(./img/image-night-arcade.jpg);
+
+}
+
+.galeria__img3 {
+   background-image: url(./img/image-soccer-team.jpg);
+
+}
+
+.galeria__img4 {
+   background-image: url(./img/image-grid.jpg);
+
+}
+
+.galeria__img5 {
+   background-image: url(./img/image-from-above.jpg);
+
+}
+
+.galeria__img6 {
+   background-image: url(./img/image-pocket-borealis.jpg);
+
+}
+
+.galeria__img7 {
+   background-image: url(./img/image-curiosity.jpg);
+
+}
+
+.galeria__img8 {
+   background-image: url(./img/image-fisheye.jpg);
+
+}
